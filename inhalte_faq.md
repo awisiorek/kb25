@@ -11,7 +11,7 @@
 ### Tools für die Verarbeitung von Korpusdaten (großen Textsammlungen):
 - **Shell**: 
     - Dateiverarbeitung (z.B. automatisiertes Iterieren über Dateien einer Textsammlung)
-    - Tools zur Daten- und Textmanipulation: awk, sed
+    - Tools zur Daten- und Textmanipulation
     - Tools zur Rekodierung
     - Tools zur automatisierten Datenbeschaffung aus dem Web
 - **Python**: u.a. NLTK, pandas, scikit-learn, stanza, etree/bs4
