@@ -51,8 +51,8 @@ https://moodle.lmu.de/course/view.php?id=40428
 
 ## Klausur:
 
-| Datum  | Termin | 
-| ------------- | ------------- | 
-|  Do, 31.07.2025 |  14 Uhr   | 
+| Datum  | Termin | Raum |
+| ------------- | ------------- | ------------- | 
+|  Do, 31.07.2025 |  14 Uhr   | Oettingenstr. 67 - L155 |
 
 
