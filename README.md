@@ -43,10 +43,10 @@ https://moodle.lmu.de/course/view.php?id=40428
 |  Do, 12.06.2025 | **5** |  ***Python*-Korpusverarbeitung mit *pandas*** |
 |  Do, 19.06.2025 |  - | *(Feiertag)* |
 |  Do, 26.06.2025 | **6** | ***Python*-Korpusannotation mit *stanza*** |
-|  Do, 03.07.2025 |  **7a** | ***XML*-Korpora** |
-|  Do, 10.07.2025 |  **7b** |  ***XML*-Parsing** |
-|  Do, 17.07.2025 |  **8** | **POS-Tagging**  + **PROBEKLAUSUR** |
-|  Do, 24.07.2025 |  **9** | **Korpus-APIs** **KLAUSURVORBEREITUNG** |
+|  Do, 03.07.2025 |  **7** | ***XML*-Korpora** |
+|  Do, 10.07.2025 |  **8** |  ***XML*-Parsing** |
+|  Do, 17.07.2025 |  **9** | **POS-Tagging**  + **PROBEKLAUSUR** |
+|  Do, 24.07.2025 |  **10** | **Korpus-APIs** + **KLAUSURVORBEREITUNG** |
 
 
 ## Klausur:
