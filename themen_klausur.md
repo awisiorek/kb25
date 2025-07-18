@@ -23,7 +23,6 @@
 - Zählen von Wörtern, Bytes und Zeichen mit wc 
 - Kombinierende Zeichen
 - Encoding in Python: unicodedata,  encode/decode
-- *(nicht relevant: UNIX-Tools für Kodierung: uconv/iconv, recode, hexdump, file)*
 
 
 
